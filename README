@@ -1,1 +1,3 @@
-#TEXT
+#cmd: npm install to intall all dependencies
+
+#cmd: npm run dev to run the app
